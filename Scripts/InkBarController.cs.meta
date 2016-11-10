@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2ef2d4f03c3f5e54eb6fbe94f6e953de
+timeCreated: 1453326803
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - InkBar: {instanceID: 0}
+  - leftIcon: {instanceID: 0}
+  - rightIcon: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
