@@ -3,8 +3,8 @@ using System.Collections;
 /* fading when the stage/scene changes */
 public class Fading : MonoBehaviour {
 
-    public Texture2D fadeOutTexture;//black screen when fading
-    public float fadeSpeed = 0.8f; //fading speed
+    public Texture2D fadeOutTexture;  // black screen when fading
+    public float fadeSpeed = 0.8f;  // fading speed
 
     private int drawDepth = -1000;
     private float alpha = 1.0f;
