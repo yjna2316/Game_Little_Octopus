@@ -4,7 +4,7 @@ using System.Collections;
 //This script controls the scrolling of the background
 public class Background : MonoBehaviour
 {
-	public float speed = 0.1f;          //Speed of the scrolling
+    public float speed = 0.1f;          //Speed of the scrolling
 
     public void Speed(float value)
     {
